@@ -2,4 +2,6 @@
 This tool is fast as a nmap (small version)
 
 # Commands
-hello
+sudo apt install git
+
+git clone 
