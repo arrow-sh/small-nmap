@@ -5,7 +5,7 @@ This tool is fast as a nmap (small version)
 
 [] sudo apt install git
 
-[] git clone https://github.com/devdixit-sh/small-nmap
+[] git clone https://github.com/arrow-sh/small-nmap
 
 [] cd small-nmap
 
