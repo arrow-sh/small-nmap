@@ -1,15 +1,16 @@
 # small-nmap
 This tool is fast as a nmap (small version)
 
-# Commands
-sudo apt install git
+# Commands:
 
-git clone https://github.com/devdixit-sh/small-nmap
+[] sudo apt install git
 
-cd small-nmap
+[] git clone https://github.com/devdixit-sh/small-nmap
 
-chmod +x nmap.sh
+[] cd small-nmap
 
-./nmap.sh
+[] chmod +x nmap.sh
 
-Running.......................
+[] ./nmap.sh
+
+[] Running.......................
