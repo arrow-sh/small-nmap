@@ -4,7 +4,7 @@ echo "Script is loading..."
 sleep 3
 clear
 
-echo -e "\e[4;31m Author: Dev Dixit \e[0m"
+echo -e "\e[4;31m     Author: Dev Dixit     \e[0m"
 echo " "
 
 echo -e "\e[4;31m PLease Read Instruction Carefully !!! \e[0m"
