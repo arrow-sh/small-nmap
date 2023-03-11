@@ -1,5 +1,5 @@
 # small-nmap
-This tool is fast as a nmap (small version)
+This tool is fast than nmap (small version)
 
 # Commands:
 
